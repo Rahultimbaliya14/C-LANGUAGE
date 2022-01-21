@@ -1,3 +1,4 @@
+//CREATED BY RAHUL TIMBALIYA
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -20,7 +21,7 @@ void main()
     for(j=0;j<3;j++)
     {
     printf("%d\t",a[i][j]);
-}
-}
+    }
+    }
     getch();
 }
